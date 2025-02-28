@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID === undefined ? 'put your session id' : process.env.SESSION_ID,
+    SESSION_ID: process.env.SESSION_ID === undefined ? 'PRABATH-MD~6ItQ2DBL#OOxAhtfB6apLUQcoW14JvSwY9a7hl6uEBPFCo-EY61k' : process.env.SESSION_ID,
     PREFIX: process.env.PREFIX || '.',
-    FOOTER: process.env.FOOTER || "*✦𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐕𝟐✦*",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/za6ytm.jpg",
+    FOOTER: process.env.FOOTER || "*𝗗αʀᴋ_𝗤ᴜᴇᴇɴ-𝗠𝗗*",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.fm/f/8nzkc9znum",
     PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 HEART_REACT: process.env.HEART_REACT || 'false',
     SUDO: process.env.SUDO === undefined ? '94741671668,94771820962' : process.env.SUDO,
